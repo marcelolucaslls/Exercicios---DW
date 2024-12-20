@@ -1,1 +1,1 @@
-Atividade 1 da disciplina desenvolvimento web
+Atividades da disciplina de Desenvolvimento Web
